@@ -423,7 +423,7 @@ File = """
     UEF_3_TD,
     UEF_4_Exam,
     round(UEF_3_Moy,2),
-    UEF_3_Crdt_F(UEM_3_Moy),
+    UEF_3_Crdt_F(UEF_3_Moy),
     UEF_4_TD,
     UEF_4_Exam,
     round(UEF_4_Moy,2),
